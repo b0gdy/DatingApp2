@@ -1,0 +1,4 @@
+{
+    "resharper.build.restorePackagesOnBuild": true,
+    "resharper.solution.showLoadingStatus": true
+}
